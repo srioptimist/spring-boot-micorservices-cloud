@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/parent-boot-1" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-cloud" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-cloud/spring-cloud-bootstrap" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-cloud/spring-cloud-bootstrap/config" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-cloud/spring-cloud-bootstrap/discovery" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-cloud/spring-cloud-bootstrap/gateway" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-cloud/spring-cloud-bootstrap/svc-book" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-cloud/spring-cloud-bootstrap/svc-rating" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-cloud/spring-cloud-bootstrap/zipkin" charset="UTF-8" />
+  </component>
+</project>
